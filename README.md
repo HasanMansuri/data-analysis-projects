@@ -24,7 +24,7 @@ Each project demonstrates how to handle datasets, analyze them, and visualize in
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 - Python
 - Pandas
 - Matplotlib
